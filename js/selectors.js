@@ -2,9 +2,9 @@
 function paragraphSelector(){
   return $('p')
 };
-$(document).ready(function lastImageSelector(){
+function lastImageSelector(){
   return $('img:last')
-});
+};
 $(document).ready(function ninjaBabySelector(){
   return $('baby-ninja')
 });
