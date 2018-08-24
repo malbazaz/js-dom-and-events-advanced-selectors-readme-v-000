@@ -5,9 +5,9 @@ function paragraphSelector(){
 function lastImageSelector(){
   return $('img:last')
 };
-$(document).ready(function ninjaBabySelector(){
+function ninjaBabySelector(){
   return $('baby-ninja')
-});
+};
 $(document).ready(function divSelector(){
   return $('.pics')
 });
