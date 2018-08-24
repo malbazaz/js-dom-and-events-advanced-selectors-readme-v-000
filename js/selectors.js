@@ -6,7 +6,7 @@ $(document).ready(function lastImageSelector(){
   return $('img:last')
 });
 $(document).ready(function ninjaBabySelector(){
-  return $('p')
+  return $('baby-ninja')
 });
 $(document).ready(function paragraphSelector(){
   return $('p')
