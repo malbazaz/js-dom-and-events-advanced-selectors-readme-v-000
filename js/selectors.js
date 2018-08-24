@@ -11,6 +11,6 @@ $(document).ready(function ninjaBabySelector(){
 $(document).ready(function divSelector(){
   return $('.pics')
 });
-$(document).ready(function paragraphSelector(){
-  return $('p')
+$(document).ready(function firstListItem(){
+  return $('ul:first-child.pic-list')
 });
