@@ -5,10 +5,10 @@ $(document).ready(function paragraphSelector(){
 $(document).ready(function lastImageSelector(){
   return $('img:last')
 });
-$(document).ready(function divSelector(){
+$(document).ready(function ninjaBabySelector(){
   return $('baby-ninja')
 });
-$(document).ready(function paragraphSelector(){
+$(document).ready(function divSelector(){
   return $('p')
 });
 $(document).ready(function paragraphSelector(){
